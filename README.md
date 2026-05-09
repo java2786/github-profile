@@ -1,16 +1,27 @@
-## Hi there 👋
+# Arun Kumar
 
-<!--
-**java2786/java2786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Technical Consultant with 15+ years of experience in:
 
-Here are some ideas to get you started:
+- Java Full Stack Development
+- Cloud & DevOps
+- Spring Boot & REST APIs
+- Docker & CI/CD Workflows
+- Power BI & Data Analytics
+- Python Analytics Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced in mentoring 20,000+ learners and helping 5,000+ freshers become industry-ready through implementation-focused technical learning systems.
+
+## Technical Focus
+- Spring Boot
+- AWS
+- Docker & Docker Compose
+- CI/CD Pipelines
+- Power BI
+- Data Analytics
+- Full Stack Development
+
+## Current Work
+- Cloud-native deployment workflows
+- Backend application systems
+- Data analytics learning projects
+- Technical mentoring ecosystems
