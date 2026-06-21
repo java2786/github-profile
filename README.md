@@ -235,6 +235,35 @@ Worked with professionals and engineering teams associated with:
 
 ---
 
+# Industry & Academic Engagement
+
+Alongside enterprise consulting and software development, I have partnered with engineering teams, universities, and training organizations to deliver implementation-focused technology programs.
+
+### Selected Institutions
+
+- Bharati Vidyapeeth's College of Engineering, New Delhi
+- Bhagwan Parshuram Institute of Technology, Delhi
+- RD Engineering College, Ghaziabad
+- Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad
+- IMS Engineering College, Ghaziabad
+- ABES Engineering College, Ghaziabad
+- The NorthCap University, Gurugram
+
+### Programs Delivered
+
+- Enterprise Java
+- Java Full Stack Development
+- Spring Boot & Microservices
+- MERN Stack
+- MEAN Stack
+- React
+- React Native
+- Flutter
+- Data Structures & Algorithms with Java
+- Cloud Computing
+
+---
+
 # Current Focus
 
 - Enterprise Java
